@@ -18,6 +18,12 @@ const projectsData: Project[] = [
     and updated based on reltime data.`,
     imgSrc: '',
     href: '/blog/project-tracker'
+  },
+  {
+    title: 'Real Estate API',
+    description: `An API that serves publicly avaliable data from a csv to a user in json format.`,
+    imgSrc: '',
+    href: 'https://github.com/electricman991/housing_market'
   }
 ]
 
