@@ -17,7 +17,7 @@ const projectsData: Project[] = [
     description: `A backend api that allows for the trucks to send information data and have it saved
     and updated based on reltime data.`,
     imgSrc: '',
-    href: '/blog/project-tracker'
+    href: '/blog/package-tracker'
   },
   {
     title: 'Real Estate API',
