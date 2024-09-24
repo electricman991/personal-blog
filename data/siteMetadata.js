@@ -6,7 +6,7 @@ const siteMetadata = {
   description: 'A blog and personal portfolio for Braiden',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://personal-blog-phi-smoky.vercel.app',
+  siteUrl: 'https://electricman.dev',
   siteRepo: 'https://github.com/electricman991/personal-blog',
   siteLogo: '/static/images/logo.png',
   socialBanner: '/static/images/twitter-card.png',
